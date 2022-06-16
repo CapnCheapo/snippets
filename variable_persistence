@@ -1,0 +1,14 @@
+def do_stuff(worklist, workint):
+    workint = workint + 1
+    mylist.append('superhero')
+
+
+mylist = ['steve', 'moore']
+myint = 3
+
+print("mylist before function call ", mylist)
+print("myint before function call ", myint)
+
+do_stuff(mylist, myint)
+print("mylist after function call ", mylist)
+print("myint after function call ", myint)
