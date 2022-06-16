@@ -1,6 +1,6 @@
 def do_stuff(worklist, workint):
     workint = workint + 1
-    mylist.append('superhero')
+    worklist.append('superhero')
 
 
 mylist = ['steve', 'moore']
